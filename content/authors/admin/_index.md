@@ -14,7 +14,7 @@ organizations:
   url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shatira Woods is a PhD student inthe department of sociology at The Ohio State University. 
+bio: Shatira Woods is a PhD student in the Department of Sociology at The Ohio State University. 
 
 # Interests to show in About widget
 interests:
@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/CV.pdf
+   link: media/woods_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ highlight_name: false
 Shatira Woods is a graduate student studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, and social media discourse. She is currently a graduate research assistant under Dr. Dana Haynie.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/woods_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
