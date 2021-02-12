@@ -11,7 +11,7 @@ role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Ohio State University
-  url: https://www.sociology.osu.edu/
+  url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Shatira Woods is a PhD student inthe department of sociology at The Ohio State University. 
