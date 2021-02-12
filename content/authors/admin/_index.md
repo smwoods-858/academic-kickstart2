@@ -66,7 +66,7 @@ social:
    link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "woods.858@osu.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
