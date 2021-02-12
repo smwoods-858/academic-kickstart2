@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Sociology
     institution: The Ohio State University
-    year: 2026 (expected)
+    year: "2026 (expected)"
   - course: MA in Sociology
     institution: The Ohio State University
-    year: 2021 (expected)
+    year: "2021 (expected)"
   - course: BS in Psychology, Neuroscience, and Sociology
     institution: Syracuse University
-    year: 2019
+    year: "2019"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
