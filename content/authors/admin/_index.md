@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:woods.858@osu.edu'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/S_Monique9823/
