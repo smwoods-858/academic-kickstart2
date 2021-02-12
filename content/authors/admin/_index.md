@@ -6,15 +6,15 @@ title: Shatira Woods
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student and Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Ohio State University
-  url: https://www.stanford.edu/
+  url: https://www.sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Shatira Woods is a PhD student inthe department of sociology at The Ohio State University. 
 
 # Interests to show in About widget
 interests:
@@ -75,4 +75,4 @@ highlight_name: false
 Shatira Woods is a graduate student studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, and social media discourse. She is currently a graduate research assistant under Dr. Dana Haynie.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/WoodsCV_Spring2021_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
