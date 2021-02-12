@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2021 (expected)
-  - course: MEng in Artificial Intelligence
+  - course: PhD, Sociology
+    institution: The Ohio State University
+    year: expected 2026
+  - course: MA, Sociology
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: expected 2021
+  - course: BS, Sociology, Psychology, Neuroscience
+    institution: Syracuse University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
