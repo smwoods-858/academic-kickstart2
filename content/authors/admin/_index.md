@@ -33,7 +33,7 @@ education:
   - course: MA in Sociology
     institution: The Ohio State University
     year: 2021
-  - course: BS in Psychology, Neuroscience, and Sociology
+  - course: BS in Sociology
     institution: Syracuse University
     year: 2019
 
