@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/WoodsCV_Spring2021_2.pdf
+   link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "woods.858@osu.edu"
@@ -75,4 +75,4 @@ highlight_name: false
 Shatira Woods is a graduate student studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, and social media discourse. She is currently a graduate research assistant under Dr. Dana Haynie.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/WoodsCV_Spring2021_2.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
