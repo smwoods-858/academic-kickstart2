@@ -75,4 +75,4 @@ highlight_name: false
 Shatira Woods is a graduate student studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, and social media discourse. She is currently a graduate research assistant under Dr. Dana Haynie.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/WoodsCV_Spring2021_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/WoodsCV_Spring2021_2.pdf" "newtab" >}}CV{{< /staticref >}}.
