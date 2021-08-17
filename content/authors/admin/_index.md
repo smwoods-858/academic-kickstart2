@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Shatira Woods is a third year PhD student and NSF graduate research fellow studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, criminology, and social media discourse. She is advised by Dr. Dana Haynie and is currently a member of two research teams examining (1) Trust in Cryptomarkets, and (2) Hate Group Rhetoric and Activity. 
+Shatira Woods is a third year PhD student and NSF graduate research fellow studying sociology at The Ohio State University. Her research interests include race, religion, nationalism, criminology, and social media discourse. She is advised by [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7) and is currently a member of two research teams: (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Hate Group Rhetoric and Activity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/woods_cv.pdf" "newtab" >}}CV{{< /staticref >}} (last updated: August 2021).
