@@ -18,10 +18,12 @@ bio: Shatira Woods is a PhD student in the Department of Sociology at The Ohio S
 
 # Interests to show in About widget
 interests:
-- Race
-- Social Stratification
-- Religion
-- Criminology
+- Quantitiative and Qualitative Methodology
+- Race, Class, Gender, and Sexuality
+- Urban Sociology
+- Identity and Boundary Formation
+- Politics
+- Culture
 
 # Education to show in About widget
 education:
@@ -71,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Shatira Woods (they/she) is a third year PhD student and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include culture, identity, stratification, and criminology. They are also interested in natural language processing and machine learning methodologies. They are advised by [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7) and are currently a member of two research teams: (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Hate Group Rhetoric and Activity. 
+[Shatira Woods](https://sociology.osu.edu/people/woods.858) (they/she) is a fourth year doctoral student and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include methodology and the intersections of identity, politics, and culture. In addition to the departmental methods sequence, they received (funded) external training in quantitative text analysis, social network analysis, and machine learning among other methods. They are advised by [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7) and are currently a member of two research teams: (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Hate Group Rhetoric and Activity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/woods_cv.pdf" "newtab" >}}CV{{< /staticref >}} (last updated: March 2022).
