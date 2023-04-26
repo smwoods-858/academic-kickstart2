@@ -6,7 +6,7 @@ title: Shatira Woods
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shatira Woods is a PhD student in the Department of Sociology at The Ohio State University. 
+bio: Shatira Woods is a PhD candidate in the Department of Sociology at The Ohio State University. 
 
 # Interests to show in About widget
 interests:
@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-[Shatira Woods](https://sociology.osu.edu/people/woods.858) (they/them) is a fourth year doctoral student and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include methodology and the intersections of identity, politics, and culture. In addition to the departmental methods sequence, they have received (funded) external training in quantitative text analysis, social network analysis, and machine learning among other methods. They are advised by [Dr. Rin Rezcek](https://www.rinreczek.com/) and are currently a member of two research teams with [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7): (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Hate Group Rhetoric and Activity. 
+[Shatira Woods](https://sociology.osu.edu/people/woods.858) (they/them) is a fourth year PhD candidate (ABD) and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include methodology and the intersections of identity, politics, and culture. Their dissertation is about space, place, identity, and politics among LGBTQ residents of Columbus, OH. In addition to the departmental methods sequence, they have received (funded) external training in quantitative text analysis, social network analysis, and machine learning among other methods. They are advised by [Dr. Rin Rezcek](https://www.rinreczek.com/) and are currently a member of two research teams with [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7): (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Predictors of Anti-trans Legislation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/woods_cv.pdf" "newtab" >}}CV{{< /staticref >}} (last updated: March 2022).
