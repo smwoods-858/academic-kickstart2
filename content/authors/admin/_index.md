@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shatira Woods
+title: Mo Woods
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shatira Woods is a PhD candidate in the Department of Sociology at The Ohio State University. 
+bio: Mo Woods is a PhD candidate in the Department of Sociology at The Ohio State University. 
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD, Sociology
     institution: The Ohio State University
-    year: in progress
+    year: In progress
   - course: MA, Sociology
     institution: The Ohio State University
     year: 2021
@@ -57,7 +57,7 @@ social:
   link: https://github.com/smwoods-858
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shatira-woods-049a45165
+  link: https://www.linkedin.com/in/mo-woods-049a45165
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-[Shatira Woods](https://sociology.osu.edu/people/woods.858) (they/them) is a fourth year PhD candidate (ABD) and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include methodology and the intersections of identity, politics, and culture. Their dissertation is about space, place, identity, and politics among LGBTQ residents of Columbus, OH. In addition to the departmental methods sequence, they have received (funded) external training in quantitative text analysis, social network analysis, and machine learning among other methods. They are advised by [Dr. Rin Rezcek](https://www.rinreczek.com/) and are currently a member of two research teams with [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7): (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Predictors of Anti-transgender Legislation. 
+[Mo Woods](https://sociology.osu.edu/people/woods.858) (they/them) is a fourth year PhD candidate (ABD) and NSF graduate research fellow studying sociology at The Ohio State University. Their research interests include methodology and the intersections of identity, politics, and culture. Their dissertation is about space, place, identity, and politics among LGBTQ residents of Columbus, OH. In addition to the departmental methods sequence, they have received (funded) external training in quantitative text analysis, social network analysis, and machine learning among other methods. They are advised by [Dr. Rin Rezcek](https://www.rinreczek.com/) and are currently a member of two research teams with [Dr. Dana Haynie](https://sociology.osu.edu/people/haynie.7): (1) [Trust in Cryptomarkets](https://u.osu.edu/cryptomarkets/), and (2) Predictors of Anti-transgender Legislation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/woods_cv.pdf" "newtab" >}}CV{{< /staticref >}} (last updated: March 2022).
